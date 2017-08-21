@@ -1,0 +1,5 @@
+*.pickle
+.kaggle-cli
+*.sublime-*
+__pycache__
+submission
